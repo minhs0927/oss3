@@ -1,3 +1,2 @@
 hanyang
 university
-erica
